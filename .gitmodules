@@ -19,3 +19,6 @@
 [submodule "include/fluent/str_copy"]
 	path = include/fluent/str_copy
 	url = https://github.com/rodrigoo-r/str_copy.git
+[submodule "include/fluent/types"]
+	path = include/fluent/types
+	url = https://github.com/rodrigoo-r/types.git

@@ -1,3 +1,6 @@
 [submodule "include/fluent/stdi"]
 	path = include/fluent/stdi
 	url = https://github.com/rodrigoo-r/stdi.git
+[submodule "include/fluent/itoa"]
+	path = include/fluent/itoa
+	url = https://github.com/rodrigoo-r/itoa.git

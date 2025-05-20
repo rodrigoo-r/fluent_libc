@@ -10,3 +10,6 @@
 [submodule "include/fluent/stdo"]
 	path = include/fluent/stdo
 	url = https://github.com/rodrigoo-r/stdo.git
+[submodule "include/fluent/std_bool"]
+	path = include/fluent/std_bool
+	url = https://github.com/rodrigoo-r/std_bool.git

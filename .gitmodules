@@ -16,3 +16,6 @@
 [submodule "include/fluent/str_len"]
 	path = include/fluent/str_len
 	url = https://github.com/rodrigoo-r/str_len.git
+[submodule "include/fluent/str_copy"]
+	path = include/fluent/str_copy
+	url = https://github.com/rodrigoo-r/str_copy.git

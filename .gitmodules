@@ -7,3 +7,6 @@
 [submodule "include/fluent/atoi"]
 	path = include/fluent/atoi
 	url = https://github.com/rodrigoo-r/atoi.git
+[submodule "include/fluent/stdo"]
+	path = include/fluent/stdo
+	url = https://github.com/rodrigoo-r/stdo.git

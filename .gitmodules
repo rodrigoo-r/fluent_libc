@@ -1,0 +1,3 @@
+[submodule "include/fluent/stdi"]
+	path = include/fluent/stdi
+	url = https://github.com/rodrigoo-r/stdi.git

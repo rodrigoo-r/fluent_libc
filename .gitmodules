@@ -25,3 +25,6 @@
 [submodule "include/fluent/str_comp"]
 	path = include/fluent/str_comp
 	url = https://github.com/rodrigoo-r/str_comp.git
+[submodule "include/fluent/string_builder"]
+	path = include/fluent/string_builder
+	url = https://github.com/rodrigoo-r/string_builder.git

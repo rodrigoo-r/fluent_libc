@@ -22,3 +22,6 @@
 [submodule "include/fluent/types"]
 	path = include/fluent/types
 	url = https://github.com/rodrigoo-r/types.git
+[submodule "include/fluent/str_comp"]
+	path = include/fluent/str_comp
+	url = https://github.com/rodrigoo-r/str_comp.git

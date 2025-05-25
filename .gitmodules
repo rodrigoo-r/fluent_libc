@@ -28,3 +28,6 @@
 [submodule "include/fluent/string_builder"]
 	path = include/fluent/string_builder
 	url = https://github.com/rodrigoo-r/string_builder.git
+[submodule "include/fluent/include/fluent/vector"]
+	path = include/fluent/include/fluent/vector
+	url = https://github.com/rodrigoo-r/vector.git

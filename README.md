@@ -24,5 +24,5 @@ FetchContent_Declare(
 
 FetchContent_MakeAvailable(fluent_libc)
 target_include_directories(your_project PRIVATE ${CMAKE_BINARY_DIR}/_deps/fluent_libc-src/include)
-target_link_libraries(fluentc PRIVATE fluent_libc)
+target_link_libraries(your_project PRIVATE fluent_libc)
 ```

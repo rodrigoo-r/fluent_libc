@@ -37,3 +37,6 @@
 [submodule "include/fluent/hashmap"]
 	path = include/fluent/hashmap
 	url = https://github.com/rodrigoo-r/hashmap.git
+[submodule "include/fluent/atomic"]
+	path = include/fluent/atomic
+	url = https://github.com/rodrigoo-r/atomic.git

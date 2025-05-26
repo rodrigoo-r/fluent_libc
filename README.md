@@ -25,4 +25,6 @@ FetchContent_Declare(
 FetchContent_MakeAvailable(fluent_libc)
 target_include_directories(your_project PRIVATE ${CMAKE_BINARY_DIR}/_deps/fluent_libc-src/include)
 target_link_libraries(your_project PRIVATE fluent_libc)
+target_compile_definitions(heap_guard PUBLIC DEBUG FLUENT_LIBC_RELEASE=1)
+# add_definitions(-DDEBUG -DFLUENT_LIBC_RELEASE=1) If the above line does not work
 ```

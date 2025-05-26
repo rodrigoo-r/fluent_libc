@@ -34,3 +34,6 @@
 [submodule "include/fluent/mutex"]
 	path = include/fluent/mutex
 	url = https://github.com/rodrigoo-r/mutex.git
+[submodule "include/fluent/hashmap"]
+	path = include/fluent/hashmap
+	url = https://github.com/rodrigoo-r/hashmap.git

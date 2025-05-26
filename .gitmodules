@@ -43,3 +43,6 @@
 [submodule "include/fluent/optional"]
 	path = include/fluent/optional
 	url = https://github.com/rodrigoo-r/optional.git
+[submodule "include/fluent/heap_guard"]
+	path = include/fluent/heap_guard
+	url = https://github.com/rodrigoo-r/heap_guard.git

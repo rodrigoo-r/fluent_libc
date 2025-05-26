@@ -31,3 +31,6 @@
 [submodule "include/fluent/vector"]
 	path = include/fluent/vector
 	url = https://github.com/rodrigoo-r/vector.git
+[submodule "include/fluent/mutex"]
+	path = include/fluent/mutex
+	url = https://github.com/rodrigoo-r/mutex.git

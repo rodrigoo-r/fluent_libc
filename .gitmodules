@@ -40,3 +40,6 @@
 [submodule "include/fluent/atomic"]
 	path = include/fluent/atomic
 	url = https://github.com/rodrigoo-r/atomic.git
+[submodule "include/fluent/optional"]
+	path = include/fluent/optional
+	url = https://github.com/rodrigoo-r/optional.git

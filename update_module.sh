@@ -22,3 +22,4 @@ cd ../../../
 # Perform final git commands
 echo "Committing changes in main repository..."
 git add . && git commit -m "Sync submodule ${REPO_NAME}"
+git push origin master

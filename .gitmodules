@@ -46,3 +46,6 @@
 [submodule "include/fluent/heap_guard"]
 	path = include/fluent/heap_guard
 	url = https://github.com/rodrigoo-r/heap_guard.git
+[submodule "include/fluent/cli"]
+	path = include/fluent/cli
+	url = https://github.com/rodrigoo-r/cli.git

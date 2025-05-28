@@ -37,4 +37,5 @@ if [ $? -ne 0 ]; then
     exit 1
 fi
 
+git push origin master
 echo "All operations completed successfully"

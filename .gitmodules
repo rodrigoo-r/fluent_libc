@@ -52,3 +52,6 @@
 [submodule "include/fluent/str_pad"]
 	path = include/fluent/str_pad
 	url = https://github.com/rodrigoo-r//str_pad.git
+[submodule "include/fluent/arena"]
+	path = include/fluent/arena
+	url = https://github.com/rodrigoo-r/arena.git

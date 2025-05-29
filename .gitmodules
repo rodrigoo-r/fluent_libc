@@ -49,3 +49,6 @@
 [submodule "include/fluent/cli"]
 	path = include/fluent/cli
 	url = https://github.com/rodrigoo-r/cli.git
+[submodule "include/fluent/str_pad"]
+	path = include/fluent/str_pad
+	url = https://github.com/rodrigoo-r//str_pad.git

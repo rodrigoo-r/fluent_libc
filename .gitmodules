@@ -55,3 +55,6 @@
 [submodule "include/fluent/arena"]
 	path = include/fluent/arena
 	url = https://github.com/rodrigoo-r/arena.git
+[submodule "include/fluent/pair"]
+	path = include/fluent/pair
+	url = https://github.com/rodrigoo-r/pair.git

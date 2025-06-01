@@ -64,3 +64,6 @@
 [submodule "include/fluent/str_conv"]
 	path = include/fluent/str_conv
 	url = https://github.com/rodrigoo-r/str_conv.git
+[submodule "include/fluent/std_math"]
+	path = include/fluent/std_math
+	url = https://github.com/rodrigoo-r/std_math.git

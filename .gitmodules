@@ -61,3 +61,6 @@
 [submodule "include/fluent/clock"]
 	path = include/fluent/clock
 	url = https://github.com/rodrigoo-r//clock.git
+[submodule "include/fluent/str_conv"]
+	path = include/fluent/str_conv
+	url = https://github.com/rodrigoo-r/str_conv.git

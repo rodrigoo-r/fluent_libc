@@ -67,3 +67,6 @@
 [submodule "include/fluent/std_math"]
 	path = include/fluent/std_math
 	url = https://github.com/rodrigoo-r/std_math.git
+[submodule "include/fluent/path"]
+	path = include/fluent/path
+	url = https://github.com/rodrigoo-r/path.git

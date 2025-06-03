@@ -73,3 +73,6 @@
 [submodule "include/fluent/ansi"]
 	path = include/fluent/ansi
 	url = https://github.com/rodrigoo-r/ansi.git
+[submodule "include/fluent/linked_queue"]
+	path = include/fluent/linked_queue
+	url = https://github.com/rodrigoo-r/linked_queue.git

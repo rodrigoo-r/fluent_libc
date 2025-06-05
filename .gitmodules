@@ -76,3 +76,6 @@
 [submodule "include/fluent/linked_queue"]
 	path = include/fluent/linked_queue
 	url = https://github.com/rodrigoo-r/linked_queue.git
+[submodule "include/fluent/str_has_prefix"]
+	path = include/fluent/str_has_prefix
+	url = https://github.com/rodrigoo-r/str_has_prefix.git

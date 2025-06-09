@@ -79,3 +79,6 @@
 [submodule "include/fluent/str_has_prefix"]
 	path = include/fluent/str_has_prefix
 	url = https://github.com/rodrigoo-r/str_has_prefix.git
+[submodule "include/fluent/alinked_queue"]
+	path = include/fluent/alinked_queue
+	url = https://github.com/rodrigoo-r/alinked_queue.git
